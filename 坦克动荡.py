@@ -27,7 +27,6 @@ collision_types = {
     "bullet": 2,
 }
 
-tank1_img = pygame.image.load("tankRed.png")
 font = pygame.font.SysFont("Arial", 30)
 
 bullets = []
